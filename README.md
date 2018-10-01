@@ -17,7 +17,7 @@ ensure a system is in compliance or consistency with the CIS
 baseline.  
   
 Benchmark ID:  RHEL-7  
-Benchmark Version:  0.1.40  
+Benchmark Version:  0.1.41  
   
 XCCDF Version:  1.1  
   
